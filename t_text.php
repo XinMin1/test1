@@ -377,7 +377,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/blocks/all_header.php";
 
 <!-- FOOTER -->
 <? include $_SERVER['DOCUMENT_ROOT'] . "/blocks/footer.php"; ?>
-<!-- FOOTER -->
+<!-- -->
 
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/blocks/bottom.php"; ?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/blocks/bottom_all.php"; ?>
